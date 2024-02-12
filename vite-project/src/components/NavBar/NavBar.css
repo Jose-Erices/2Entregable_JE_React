@@ -1,0 +1,33 @@
+nav {
+    background-color: rgb(78, 75, 75);
+    display:flex;
+  }
+  
+  h1 {
+    margin: auto;
+    font-size: 1,8em;
+    color:orange !important;
+    
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 20px;
+    margin-left: 40%;
+    font-size: 20px;
+  
+   
+    
+  }
+  
+  li {
+    display: inline-block;
+    margin-right: 10px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  li:hover {
+    color: orange;
+    background-color: black;
+  }

@@ -1,0 +1,12 @@
+.imagenes{
+    width: 60%;
+    height: 40%;
+    margin-left: 40px;
+    border-radius:grey;
+}
+.descrip{
+    width: 100%;
+    height: 100%;
+    color: red;
+
+}

@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "nombre": "Alimento de Perro adulto Xt21 10 kilos ",
+        "precio": "$30.000",
+        "img":"../public/img/Master Dog.jpg",
+        "description": "comida para perro adulto"
+    },
+    {
+        "id": 2,
+        "nombre": "Alimento de Perro SabroKan 25 kilos",
+        "precio": "$33.000",
+        "img":"../public/img/Master Dog.jpg",
+        "description": "comida para perro adulto"
+        
+    },
+    {
+        "id": 3,
+        "nombre": "Alimento de Perro Sanson Dog adulto 25kg",
+        "precio": "$35.000",
+        "img":"../public/img/Master Dog.jpg",
+        "description": "comida para perro adulto"
+    },
+    {
+        "id": 4,
+        "nombre": "Alimento de Perro Master DOG cachorro 18kg",
+        "precio": "$25.000",
+        "img":"../public/img/Master Dog.jpg",
+        "description": "comida para raza pequeña"
+    }, 
+    {
+        "id": 4,
+        "nombre": "Alimento de Perro Master DOG cachorro 18kg",
+        "precio": "$25.000",
+        "img":"../public/img/Master Dog.jpg",
+        "description": "comida para raza pequeña"
+    },
+    {
+        "id": 4,
+        "nombre": "Alimento de Perro Master DOG cachorro 18kg",
+        "precio": 25000,
+        "img":"../public/img/Master Dog.jpg",
+        "description": "comida para raza pequeña"
+    },
+    {
+        "id": 4,
+        "nombre": "Alimento de Perro Master DOG cachorro 18kg",
+        "precio": 25000,
+        "img":"../public/img/Master Dog.jpg",
+       "description": "comida para raza pequeña"
+    },
+    {
+        "id": 4,
+        "nombre": "Alimento de Perro Master DOG cachorro 18kg",
+        "precio": 25000,
+        "img":"../public/img/Master Dog.jpg",
+        "description": "comida para raza pequeña"
+    }
+
+]
