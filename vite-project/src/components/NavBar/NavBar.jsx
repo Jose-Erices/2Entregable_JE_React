@@ -6,7 +6,7 @@ const NavBar = () => {
   return (
     <>
       <nav>
-<h1>EL Castillo de tu Mascota</h1>
+<h1><Link className="Logo" to ="/">EL Castillo de tu Mascota</Link></h1>
 <ul>
 <li><Link className="listado" to="/">Inicio</Link></li>
 <li><Link className="listado" to="/Acerca">Quienes Somos</Link></li>
