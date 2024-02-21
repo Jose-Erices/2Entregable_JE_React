@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from 'react'
 import ItemList from '../itemList/itemList';
-// import {useParams}from 'react-router-dom';
+import {useParams}from 'react-router-dom';
 
 
 
@@ -8,6 +8,8 @@ import ItemList from '../itemList/itemList';
 const ItemListContainer = ({greeting}) => {
 
     const [productos,setProductos] = useState([]);
+
+    const categoryId = useParams().categoryId;
 
     useEffect(()=>{
         
@@ -30,9 +32,8 @@ const ItemListContainer = ({greeting}) => {
 
         fetchData()
 
-    },[])   
-    // categoryId
-
+    },[categoryId])   
+    
 
   return (
     <div>
